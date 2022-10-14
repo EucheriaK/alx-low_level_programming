@@ -1,4 +1,4 @@
-#include <stdio.h>i
+#include <stdio.h>
 /**
  *main-progrtam entry point
  *Description:prints all possible different combinations of three digits
@@ -33,6 +33,6 @@ int main(void)
 		}
 	{
 	putchar ('\n');
-	return (0);
+		return (0);
 }
 

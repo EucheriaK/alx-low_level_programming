@@ -1,22 +1,22 @@
-#include "main.h"
+#include "main"
 
 /**
-*main - Entry
-*Description: prints followed by a new line
-*Return: Always 0 (Success)
+*main -prints putchar followed by new line
+*Description: prints putchar
+*Return: Always 0
 */
 
 int main(void)
+
 {
-	char *sh = "main";
-
-	while (*sh)
-	{
-		_putchar(*sh);
-		sh++;
-	}
-	_putchar('\n');
-
-	return (0);
+_putchar("_");
+_putchar("p");
+_putchar("u");
+_putchar("t");
+_putchar("c");
+_putchar("h");
+_putchar("a");
+_putchar("r");
+_putchar("\n");
+return (0);
 }
-

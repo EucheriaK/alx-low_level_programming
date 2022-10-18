@@ -3,9 +3,9 @@
 /**
 *print_alphabet_x10 - a function that prints the alphabet
 *
-*Return:Always 0
+*Return: x10 a-z
 */
-void print_alphabet_x10(void)
+void print_alphabet_x10(void);
 {
 int n;
 	for (n = 'a'; n <= 'z'; n++)

@@ -1,7 +1,7 @@
 include "main.h"
 
 /**
-*print_alphabet_x10 - a fn that prints 10times
+*print_alphabet_x10 -print_alphabet_x10
 *
 *Return: x10 a-z
 */

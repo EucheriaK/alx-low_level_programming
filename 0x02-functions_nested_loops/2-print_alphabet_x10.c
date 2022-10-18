@@ -6,8 +6,7 @@
 *Return: x10 a-z
 */
 
-int main(void)
-
+int main(void),
 {
 
 	print_alphabet_x10();

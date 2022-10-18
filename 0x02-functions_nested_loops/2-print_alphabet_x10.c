@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
-*print_alphabet - a function that prints the alphabet
+*print_alphabet_x10 - a function that prints the alphabet
 *
 *Return:Always 0
 */
-void print_alphabet(void)
-if (n <= 'z')
+void print_alphabet_x10(void)
 {
 int n;
 	for (n = 'a'; n <= 'z'; n++)

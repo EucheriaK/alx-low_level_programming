@@ -6,7 +6,7 @@
 * Description: prints if a number is positive or negative
 * Return: 0
 */
-void positive_or_negative(int i)i
+void positive_or_negative(int i);
 {
 	int n;
 

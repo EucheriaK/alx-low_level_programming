@@ -7,7 +7,7 @@
 *@argv: argument vector
 *Return: Always 0 (Success)
 */
-int (int argc, char **argv)
+int main(int argc, char **argv)
 {
 int a, b, sum = 0;
 for (a = 1; a < argc; a++)

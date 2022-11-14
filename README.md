@@ -6,8 +6,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 General
 
-What are macros and how to use them
+What are structures, when, why and how to use them
 
-What are the most common predefined macros
-
-How to include guard your header files
+How to use typedef

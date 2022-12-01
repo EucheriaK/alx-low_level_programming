@@ -47,7 +47,7 @@ Write a function that prints strings, followed by a new line.
 
 Write a function that prints anything.
 
-Prototype: void print_all(const char * const format, ...);
+	Prototype: void print_all(const char * const format, ...);
 	where format is a list of types of arguments passed to the function
 	c: char
 	i: integer
@@ -62,4 +62,3 @@ Prototype: void print_all(const char * const format, ...);
 	You can declare a maximum of 9 variables
 	You are allowed to use printf
 	Print a new line at the end of your function
-
